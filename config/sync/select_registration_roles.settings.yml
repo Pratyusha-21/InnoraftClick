@@ -1,0 +1,17 @@
+_core:
+  default_config_hash: SwDzMQWH_m4gaInWZ_ioWc09pITzfAAMXNLS4dXs95U
+select_registration_roles_setby_admin:
+  hr: hr
+  manager: manager
+  authenticated: '0'
+  administrator: '0'
+  developer: '0'
+select_registration_roles_admin_approval:
+  authenticated: '0'
+  administrator: '0'
+  hr: '0'
+  manager: '0'
+  developer: '0'
+select_registration_roles_auth_role: true
+select_registration_roles_required: true
+select_registration_roles_multiple: true
